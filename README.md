@@ -29,10 +29,12 @@ After you've finished coding, please complete the following two steps.
 
 1.  **Deploy Your Work:** Deploy your project to Vercel (it's free).
 2.  **Complete this README:** **This is the most important step.** Edit this `README.md` file in your repository to include:
-    * **Live URL:** [Add your Vercel deployment link here]
-    * **Choices Made:** [Briefly explain one technical choice you made]
-    * **Roadblock & Learning:** [Describe one small thing you had to look up and how you solved it]
+    * **Live URL:** https://webinar-psi.vercel.app/
+    * **GitHub Repository:** https://github.com/coderfrnd/webinar
+    * **Choices Made:**  I simply used Next and TS here which i clone repo from the given assignment doc 
+    * **Roadblock & Learning:** I am using Tailwind Here so i use a card CSS property from FlowBite.com and also, I try to divide every part into components apart of that calendar icon / User icons / Clock icons taken from lucid-react and also taking button css from FlowBite
     * **Screenshot:**
-        ![Your Screenshot Here](https://via.placeholder.com/600x400.png?text=Paste+Screenshot+of+Your+App+Here)
+    ![Webinar Page Screenshot](/public/screenShot.png)
+        
 
 To submit, please share the link to your finished GitHub repository with us. Good luck!
